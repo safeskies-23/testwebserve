@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkaz_drawwatch_docs||=[]).push([[9647],{7121(e,r,s){s.r(r),s.d(r,{default:()=>l});s(6540);var a=s(4164),c=s(7559),t=s(5500),u=s(2831),d=s(1344),h=s(4848);function l(e){return(0,h.jsx)(t.e3,{className:(0,a.A)(c.G.wrapper.docsPages),children:(0,h.jsx)(d.A,{children:(0,u.v)(e.route.routes)})})}}}]);
